@@ -1,19 +1,19 @@
 ## 👋 Hi, I'm Cqy-xingzhi
 
-> 🎓 Smart Agriculture undergrad · Class of 2028 → 🤖 Aspiring AI researcher
+> 🎯 CS / AI · self-taught · building in public
 
 ---
 
-### 🧑‍🌾 About Me
+### 🧑‍💻 About Me
 
-- 🌱 Currently a **sophomore** majoring in **Smart Agriculture** (Summer 2026)
-- 🎯 Transitioning into **AI / Deep Learning** — self-taught, project-driven
-- 💻 Building my Python skills one commit at a time
-- 🌟 I believe **AI + Agriculture** can reshape how we grow food
+- 🎓 Currently a **sophomore** studying **Smart Agriculture** (not by choice 😅)
+- 🤖 Passionate about **AI / Deep Learning** — doing the real learning on my own
+- 🐍 Python from scratch — grinding through the fundamentals
+- 🎯 Goal: get into a **top CS/AI grad program** and build things that actually matter
 
 ---
 
-### 🛤️ My Learning Roadmap
+### 🛤️ My Self-Study Roadmap
 
 ```
 2026.07 ─── Starting line 🏁
@@ -21,25 +21,27 @@
    ├── Data Structures & Algorithms 🔄
    ├── Machine Learning (Andrew Ng) 📖
    ├── Deep Learning (PyTorch) 📖
-   └── AI + Agriculture Project 🚧
-2027.12 ─── Postgrad entrance exam 🎯
+   └── Personal Projects 🚧
+2027.12 ─── Grad school apps 🎯
 ```
 
 | Phase | Focus | Status |
 |-------|-------|:------:|
-| 🐍 Python | File I/O, data processing | ✅ Basics |
+| 🐍 Python | File I/O, data processing, OOP | ✅ Basics |
 | 📐 DSA | Arrays, linked lists, trees, graphs | 🔄 In progress |
 | 🧠 ML | Coursera — Stanford | 📖 Not started |
 | 🔥 Deep Learning | PyTorch hands-on | 📖 Not started |
-| 🌾 AI x Agri | Crop disease classification | 🚧 Planning |
+| 🛠️ Projects | TBD — something I'm actually excited about | 🚧 Planning |
 
 ---
 
 ### 📊 GitHub Stats
 
-![Cqy-xingzhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cqy-xingzhi&show_icons=true&theme=radical)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/Cqy-xingzhi?style=for-the-badge&logo=github)
+![GitHub stars](https://img.shields.io/github/stars/Cqy-xingzhi?style=for-the-badge&logo=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cqy-xingzhi&layout=compact&theme=radical)
+> *Stats cards are currently unavailable from this region — badges above are live.* 🏷️
 
 ---
 
@@ -47,17 +49,15 @@
 
 - [ ] **1 LeetCode a day** — keep the contribution graph green 🌿
 - [ ] Finish Andrew Ng's **Machine Learning** course
-- [ ] Build my first **AI + Agriculture** project
+- [ ] Build my first real **AI project** (not a tutorial)
 - [ ] Launch a personal blog via **GitHub Pages**
 
 ---
 
 ### 📬 Get in Touch
 
-- 📧 Email: 3307782068@qq.com
-- 💬 WeChat: (your WeChat)
-- 🌐 Blog: coming soon...
+- 📧 3307782068@qq.com
 
 ---
 
-> *"The best time to plant a tree was 20 years ago. The second best time is now."* 🌳
+> *Don't let your dreams die.*
