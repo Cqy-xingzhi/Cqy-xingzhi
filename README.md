@@ -1,41 +1,41 @@
-## 👋 你好！我是 Cqy-xingzhi
+## 👋 Hi, I'm Cqy-xingzhi
 
-> 🎓 智慧农业 · 大二在读 → 🤖 目标：人工智能方向研究生
-
----
-
-### 🧑‍🌾 关于我
-
-- 🌱 智慧农业专业 **大二**（2026年暑假）
-- 🎯 正在转型 **人工智能 / 深度学习** 方向
-- 💻 Python 学习中 · 每天进步一点点
-- 🌟 相信 **AI + 农业** 可以改变世界
+> 🎓 Smart Agriculture undergrad · Class of 2028 → 🤖 Aspiring AI researcher
 
 ---
 
-### 🛤️ 学习路线
+### 🧑‍🌾 About Me
+
+- 🌱 Currently a **sophomore** majoring in **Smart Agriculture** (Summer 2026)
+- 🎯 Transitioning into **AI / Deep Learning** — self-taught, project-driven
+- 💻 Building my Python skills one commit at a time
+- 🌟 I believe **AI + Agriculture** can reshape how we grow food
+
+---
+
+### 🛤️ My Learning Roadmap
 
 ```
-2026.07 ─── 现在起步 🏁
-   ├── Python 基础 ✅
-   ├── 数据结构 & 算法 🔄
-   ├── 机器学习 (吴恩达) 📖
-   ├── 深度学习 (PyTorch) 📖
-   └── AI + 农业 项目 🚧
-2027.12 ─── 考研冲刺 🎯
+2026.07 ─── Starting line 🏁
+   ├── Python Fundamentals ✅
+   ├── Data Structures & Algorithms 🔄
+   ├── Machine Learning (Andrew Ng) 📖
+   ├── Deep Learning (PyTorch) 📖
+   └── AI + Agriculture Project 🚧
+2027.12 ─── Postgrad entrance exam 🎯
 ```
 
-| 阶段 | 内容 | 状态 |
-|------|------|:----:|
-| 🐍 Python 基础 | 文件处理、数据处理 | ✅ 基础 |
-| 📐 数据结构 | 数组、链表、树、图 | 🔄 进行中 |
-| 🧠 机器学习 | 吴恩达 Coursera 课程 | 📖 未开始 |
-| 🔥 深度学习 | PyTorch 实战 | 📖 未开始 |
-| 🌾 农业AI项目 | 农作物病害识别 | 🚧 规划中 |
+| Phase | Focus | Status |
+|-------|-------|:------:|
+| 🐍 Python | File I/O, data processing | ✅ Basics |
+| 📐 DSA | Arrays, linked lists, trees, graphs | 🔄 In progress |
+| 🧠 ML | Coursera — Stanford | 📖 Not started |
+| 🔥 Deep Learning | PyTorch hands-on | 📖 Not started |
+| 🌾 AI x Agri | Crop disease classification | 🚧 Planning |
 
 ---
 
-### 📊 GitHub 活跃度
+### 📊 GitHub Stats
 
 ![Cqy-xingzhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cqy-xingzhi&show_icons=true&theme=radical)
 
@@ -43,21 +43,21 @@
 
 ---
 
-### 🎯 近期目标
+### 🎯 Short-term Goals
 
-- [ ] 每天刷 1 道 LeetCode，保持贡献图全绿 🌿
-- [ ] 完成吴恩达《机器学习》课程
-- [ ] 做出第一个 AI + 农业 项目
-- [ ] 搭建个人博客（GitHub Pages）
-
----
-
-### 📬 联系我
-
-- 📧 邮箱：3307782068@qq.com
-- 💬 微信：（你的微信）
-- 🌐 博客：（建设中...）
+- [ ] **1 LeetCode a day** — keep the contribution graph green 🌿
+- [ ] Finish Andrew Ng's **Machine Learning** course
+- [ ] Build my first **AI + Agriculture** project
+- [ ] Launch a personal blog via **GitHub Pages**
 
 ---
 
-> *"种一棵树最好的时间是十年前，其次是现在。"* 🌳
+### 📬 Get in Touch
+
+- 📧 Email: 3307782068@qq.com
+- 💬 WeChat: (your WeChat)
+- 🌐 Blog: coming soon...
+
+---
+
+> *"The best time to plant a tree was 20 years ago. The second best time is now."* 🌳
